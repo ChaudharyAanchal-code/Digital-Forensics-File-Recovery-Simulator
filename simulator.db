@@ -1,0 +1,5 @@
+FORENSICS_SIMULATOR_DB_V1
+F001	case-notes.txt	text/plain	2048	2026-01-12 09:30	2026-01-14 16:05	simulated	0	Recovered
+F002	field-photo.jpg	image/jpeg	524288	2026-01-13 11:10	2026-01-13 11:10	2026-01-20 08:15	4096	Recovered
+F003	evidence-archive.zip	application/zip	1048576	2026-01-15 14:25	2026-01-16 10:40	2026-01-21 12:00	532480	Deleted
+F004	system-log.csv	text/csv	8192	2026-01-18 07:00	2026-01-18 07:30	simulated	1581056	Deleted
